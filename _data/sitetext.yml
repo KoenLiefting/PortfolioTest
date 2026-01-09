@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Welcome to my Studio!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "The accumulation of all my projects during my time as a student at the Amsterdam University of Applied Sciences."
     section: portfolio
     closebutton: "Close Project"
 
@@ -44,34 +44,37 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "My Humble Beginnings"
+        year: "september 2022 - june 2023"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Persuing game development further"
+        year: "september 2023 - Februari 2024"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "My time at the TATA-Steel Academy"
+        year: "February 2024 - june 2024"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Dabbling in Virtual Reality"
+        year: "September 2024 - February 2025"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "continuing Game Development with GPE"
+        year: "February 2025 - june 2025"
+        desc: "" 
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About me"
+    text: "My story"
+    body: ""
     section: about
 
   clients:
@@ -130,8 +133,8 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact Me!"
+    e-mail: "koen.liefting@hva.nl"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
