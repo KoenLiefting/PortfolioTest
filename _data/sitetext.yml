@@ -14,21 +14,21 @@ en: &DEFAULT_EN
     title: Welcome to my Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#skills"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "skills"
+    text: "certain skills I have gotten proficient at during my time as a student."
+    section: skills
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "C#"
+        desc: "Most of my time as a student I have worked with Unity engine and continued coding in C#."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Project management"
+        desc: "The latter two years of my study I have focussed on the structure around a project and how to make it run well"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "in-engine development"
+        desc: "My entire time as a student I have worked with game engines resulting in knowing my way around several."
         icon: fab fa-markdown
 
   portfolio:
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "The timeline of my time as a student"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -95,22 +95,23 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
+  socials:
+    title: "MY SOCIAL LINKS"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: "linkedin"
+        title: "@Koen liefting"
+        url: https://www.linkedin.com/in/koen-liefting-323568293/?trk=opento_sprofile_details
+        image: assets/img/team/LinkedIn.png
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
       - name: "Larry Parker"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
