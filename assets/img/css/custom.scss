@@ -1,0 +1,26 @@
+---
+
+---
+
+/* HEADER SLIDESHOW */
+.page-header {
+  background-size: cover;
+  background-position: center;
+  animation: headerSlideshow 18s infinite;
+}
+
+/* Header image rotation */
+@keyframes headerSlideshow {
+  0% {
+    background-image: url("../img/Headers/Header1.gif");
+  }
+  33% {
+    background-image: url("../img/Headers/Header2.png");
+  }
+  66% {
+    background-image: url("../img/Headers/Header3.png");
+  }
+  100% {
+    background-image: url("../img/Headers/Header1.gif");
+  }
+}
