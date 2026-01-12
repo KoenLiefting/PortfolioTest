@@ -1,10 +1,27 @@
 ---
 ---
 
+/* Ensure header exists */
 header.masthead {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Slideshow layer */
+header.masthead::before {
+  content: "";
+  position: absolute;
+  inset: 0;
   background-size: cover;
   background-position: center;
   animation: headerSlideshow 18s infinite;
+  z-index: 0;
+}
+
+/* Keep text above slideshow */
+header.masthead .container {
+  position: relative;
+  z-index: 1;
 }
 
 @keyframes headerSlideshow {
