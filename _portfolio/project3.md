@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Money Energy Transition
+subtitle: Making an educatioal game about the loaning of money and investing into green energy sources. 
+image: assets/img/portfolio/MoneyEnergy.gif
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Money energy Transition
+  subtitle: Making an educatioal game about the loaning of money and investing into green energy sources. 
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+A gamification of the current economic system surrounding the loaning of money and the transition from poluting to green energy sources. this game already existed in the form of a physical card game. The product owner approached us to game-ify his physical game and turn it into a demonstrative game showing people how fragile the current economy is and that the way loans are given out is guaranteed to end in a recession.
 
 {:.list-inline}
 - Date: January 2017
