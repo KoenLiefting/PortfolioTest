@@ -1,15 +1,12 @@
 ---
-
 ---
 
-/* HEADER SLIDESHOW */
-.page-header {
+header.masthead {
   background-size: cover;
   background-position: center;
   animation: headerSlideshow 18s infinite;
 }
 
-/* Header image rotation */
 @keyframes headerSlideshow {
   0% {
     background-image: url("../img/Headers/Header1.gif");
