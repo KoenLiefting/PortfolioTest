@@ -18,8 +18,3 @@ You can read the written test plan and findings here!
 [The Scrolltrap](https://scrolltrap.onrender.com/)
 [Bits Of Freedom](https://www.bitsoffreedom.nl)
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
-

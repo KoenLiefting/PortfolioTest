@@ -16,8 +16,5 @@ list:
 ---
 This project was about making a functioning Beat 'em up game within the span of a semester. Doing this while gaining experience in the scrum method and being graded on several competencies during our time during the project.
 
-{:.list-inline}
-- [Project Documentation](https://gd-6-203-b-gd-jaar-2-2023-2024-blok6-c20b908e58fc583fbb45361526.dev.hihva.nl)
-- Client: HVA
-- Category: Game Development
+[Project Documentation](https://gd-6-203-b-gd-jaar-2-2023-2024-blok6-c20b908e58fc583fbb45361526.dev.hihva.nl)
 
