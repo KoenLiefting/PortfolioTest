@@ -44,32 +44,36 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "My Humble Beginnings"
+      - title: "My First year as a game development student"
         year: "september 2022 - june 2023"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        desc: "This year was my first introduction to game development. The very first project was to create a version of the arcade hit Space Invaders. During this time I got used to the workflows I would use for the rest of my time as a student at the Amsterdam University of Applied Sciences."
+        image: assets/img/timeline/alien.png
         alt:
       - title: "Persuing game development further"
         year: "september 2023 - Februari 2024"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+        desc: "During this time I got the chance to further my experience with working on games and learning about game design, development and my personal learning journey."
+        image: assets/img/timeline/Devil.png
         alt:
       - title: "My time at the TATA-Steel Academy"
         year: "February 2024 - june 2024"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+        desc: "I did an internship at the TATA-STEEL Academy. The assignment was to develop a digital tool for students of the TATA-STEEL Academy to practice physical working procedures in a virtual environment. The product contained a virtual version of the terminal the students have to operate complete with the procedures they have to follow. the product had a tutorial mode and a test mode which the students could use to prepare for exams."
+        image: assets/img/timeline/TATA.png
         alt: image alt text
       - title: "Dabbling in Virtual Reality"
         year: "September 2024 - February 2025"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+        desc: "The assignment for [ResponsibleIT](https://responsible-it.nl) was to create a visual representation of how people get isolated online and how people get pushed into a web of the same like-minded people who watch the same content in virtual reality."
+        image: assets/img/timeline/VR.png
         alt:
       - title: "continuing Game Development with GPE"
         year: "February 2025 - june 2025"
-        desc: "" 
-        # you can enforce the alignment
+        desc: "During GPE the project I participated in revolved around teh gamification of an already existing card game prototype. This game was meant to raise awareness on how the current economy works, the dangers of the current way loans work and investing in green energy sources rather than poluting ones." 
+        image: assets/img/portfolio/Jaap.png
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "Entering the world of Dark Tech"
+        year: "September 2025 - January 2026"
+        desc: "The most recent project I participated in was about showing people the dark side of social media by exposing them to the techniques social media platforms use to manipulate their users."
+        align: right
+    end:
 
   about:
     title: "About me"
