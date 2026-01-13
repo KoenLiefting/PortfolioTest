@@ -19,6 +19,6 @@ You can read the written test plan and findings here!
 
 - [personal development plan](.../assets/PDP-DarkTech.docx)
 
-[The Scrolltrap](https://scrolltrap.onrender.com/)
-[Bits Of Freedom](https://www.bitsoffreedom.nl)
+- [The Scrolltrap](https://scrolltrap.onrender.com/)
+- [Bits Of Freedom](https://www.bitsoffreedom.nl)
 

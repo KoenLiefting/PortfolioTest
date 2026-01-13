@@ -73,8 +73,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About me"
-    text: "My story"
-    body: ""
+    body: "Hi!, My name is koen liefting and I am a student at the Amsterdam University of applied Sciences. From a young age i have always loved gaming related things, hence why I chose to study IT-Game Development. Over the last couple of years I have contributed to all sorts of projects and this page is deticated to showing off the projects of which I am most proud. Besides showing off, I lean a bit into what I specifically worked on and what I've learned during these times. I hope you enjoy looking at some of my accomplishments, please enjoy."
     section: about
 
   clients:
