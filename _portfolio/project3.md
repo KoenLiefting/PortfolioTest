@@ -20,9 +20,9 @@ You can read the written test plan and findings here!
 
 - [personal development plan](PortfolioTest/assets/downloads/PDP-DarkTech.docx) -->
 
-- [Testing Report]({{ site.baseurl }}/assets/downloads/TestReport.pdf)
-- [Testing Plan]({{ site.baseurl }}/assets/downloads/TestplanScrolltrap.pdf)
-- [Personal development plan]({{ site.baseurl }}/assets/downloads/PDPDarkTech.docx)
+- [Testing Report]({{site.baseurl}}/assets/downloads/TestReport.pdf)
+- [Testing Plan]({{site.baseurl}}/assets/downloads/TestplanScrolltrap.pdf)
+- [Personal development plan]({{site.baseurl}}/assets/downloads/PDPDarkTech.docx)
 
 - [The Scrolltrap](https://scrolltrap.onrender.com/)
 - [Bits Of Freedom](https://www.bitsoffreedom.nl)
