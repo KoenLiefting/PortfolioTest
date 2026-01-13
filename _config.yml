@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "http://KoenLieftingPortfolio.com" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/PortfolioTest" # the subpath of your site, e.g. /blog
 
 title      :
 email      : koen.liefting@hva.nl #this is also the email contact forms will go to

@@ -14,10 +14,10 @@ This scrolltrap was made to demostrate how social media platforms manipulate use
 During this project I wanted to take on a more leading role within the team. Facilitating the teams needs to better teamwork and trying to introduce tructure into the project. I feel like I have gained some skills in leading a project, namely leading standups, retrospectives, facilitating workflows and making sure team members are up to date on each other. Some more concrete skills I have picked up during my time working on this project are working with websites which I hadn't done before. Getting familiar with React.js and creating a web page. Transitioning from C# to JavaScript was a challenge because of my limited experience, but ultimately I am proud of the final product we developed and the personal development journey that came with it. to read more about my personal development journey during the Dark tech semester, my persoanl development plan is listed below.
 
 You can read the written test plan and findings here!
-- [Testing Report](/assets/downloads/TestReport.pdf)
-- [Testing Plan](/assets/downloads/Testplan%20Scrolltrap.pdf)
+- [Testing Report](PortfolioTest/assets/downloads/TestReport.pdf)
+- [Testing Plan](PortfolioTest/assets/downloads/Testplan%20Scrolltrap.pdf)
 
-- [personal development plan](/assets/downloads/PDP-DarkTech.docx)
+- [personal development plan](PortfolioTest/assets/downloads/PDP-DarkTech.docx)
 
 - [The Scrolltrap](https://scrolltrap.onrender.com/)
 - [Bits Of Freedom](https://www.bitsoffreedom.nl)
