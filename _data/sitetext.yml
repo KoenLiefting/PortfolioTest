@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "C#"
         desc: "Most of my time as a student I have worked with Unity engine and continued coding in C#."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-code #find more at https://fontawesome.com/icons
       - title: "Project management"
         desc: "The latter two years of my study I have focussed on the structure around a project and how to make it run well"
-        icon: fas fa-laptop
+        icon: fas fa-handshake-angle
       - title: "in-engine development"
         desc: "My entire time as a student I have worked with game engines resulting in knowing my way around several."
-        icon: fab fa-markdown
+        icon: fab fa-Unity
 
   portfolio:
     title: "Portfolio"
