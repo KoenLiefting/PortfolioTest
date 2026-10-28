@@ -4,5 +4,6 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/Headers/Header1.gif"
+# Plain black header: an inline SVG filled black (the theme only accepts an image here)
+header-image: "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='100%25' height='100%25' fill='black'/%3E%3C/svg%3E"
 contact-image: "../img/map-image.png"
