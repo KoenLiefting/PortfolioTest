@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-code #find more at https://fontawesome.com/v5/search?m=free (site uses Font Awesome 5, v6-only icons won't show)
       - title: "Project management"
         desc: "The latter two years of my study I have focussed on the structure around a project and how to make it run well"
-        icon: fas fa-project-diagram
+        icon: fas fa-calendar-alt
       - title: "in-engine development"
         desc: "My entire time as a student I have worked with game engines resulting in knowing my way around several."
         icon: fas fa-gamepad
